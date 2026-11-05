@@ -1,8 +1,7 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
 import requests
-
-
+# пупупу
 def exchange():
     base1 = base1_var.get().upper()
     base2 = base2_var.get().upper()
